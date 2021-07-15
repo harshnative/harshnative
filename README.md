@@ -23,7 +23,7 @@
 
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/favicon.ico" height="128px"/></a>
 </br>
-<button class="button" type="submit" onclick="location.href='https://www.letscodeofficial.com/'">Check Out Now</button>
+<a href="#" class="button big">Create Project</a>
 
 
 </br>
