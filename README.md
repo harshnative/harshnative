@@ -22,14 +22,14 @@
 </br>
 </br>
 
-# Some Website Build By Me 
+# Some Websites Build By Me 
 
 ### 1. Lets Code Official Community Page
 
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/favicon.ico" height="128px"/></a>
 </br>
-<a href="www.letscodeofficial.com" class="button big">Checkout Now</a>
-
+</br>
+<a href="www.letscodeofficial.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
 
 </br>
 </br>
@@ -38,7 +38,8 @@
 
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/jarvis/jarvisLogo.svg" height="128px"/></a>
 </br>
-<a href="www.letscodeofficial.com/jarvis" class="button big">Checkout Now</a>
+</br>
+<a href="www.letscodeofficial.com/jarvis" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
 
 
 </br>
@@ -48,8 +49,8 @@
 
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.mitthansweets.com/static/mitthanSweetAssests/images/favicon.ico" height="128px"/></a>
 </br>
-<a href="www.letscodeofficial.com/jarvis" class="button big">Checkout Now</a>
-
+</br>
+<a href="www.mitthansweets.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
 
 </br>
 </br>
@@ -133,3 +134,38 @@ My Most proficient langauge is python with over 3 years of professional experien
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=Jarvis2.O&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
+# Cool Python Modules
+
+
+<a href="https://github.com/harshnative/pysqlitecipher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=pysqlitecipher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> &nbsp; &nbsp;
+
+
+<a href="https://github.com/harshnative/easySQLite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=easySQLite&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> &nbsp; &nbsp;
+
+</br>
+</br>
+
+<a href="https://github.com/harshnative/easy-secure-encryptor-decryptor-module_python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=easy-secure-encryptor-decryptor-module_python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> &nbsp; &nbsp;
+
+<a href="https://github.com/harshnative/easyOpenWeather_module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=easyOpenWeather_module&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+</br>
+
+
+<a href="https://github.com/harshnative/easyFileShare_module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=easyFileShare_module&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> &nbsp; &nbsp;
