@@ -57,6 +57,16 @@
 </br>
 </br>
 
+
+# Blog & Writing
+Apart From Coding, I also Write Blogs related to all sorts of topics from tech tips to business. You can check them out at https://www.blog.letscodeofficial.com/author/harshnative/articles
+
+
+</br>
+</br>
+</br>
+</br>
+
 # My Tech Stack
 
 ## 1. Frameworks
