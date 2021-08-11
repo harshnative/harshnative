@@ -185,13 +185,6 @@ https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A
 </br>
 </br>
 
-<a href="https://github.com/harshnative/Jarvis2.O">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=Jarvis2.O&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-</br>
-</br>
-
 <a href="https://github.com/harshnative"><img alt="harsh native Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshnative&custom_title=Harsh%20Native's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </br>
@@ -200,7 +193,22 @@ https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A
 </br>
 </br>
 
-# Cool Python Modules
+# My Main Projects
+
+
+<a href="https://github.com/harshnative/Jarvis2.O">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=Jarvis2.O&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+# Cool Python Modules by ME
 
 
 <a href="https://github.com/harshnative/pysqlitecipher">
