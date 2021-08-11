@@ -2,7 +2,7 @@
 
 ### I am Harsh Gupta, A passionate developer from India.
 
-<a style="display: inline;" href="mailto: harshnative@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.linkedin.com/in/harsh-gupta-833860189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://github.com/harshnative"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.hackerrank.com/harshnative"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.facebook.com/harshnative"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.instagram.com/harshnative"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a style="display: inline;" href="mailto: harshnative@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.linkedin.com/in/harsh-gupta-833860189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://github.com/harshnative"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.hackerrank.com/harshnative"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.facebook.com/harshnative"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.instagram.com/harshnative"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://stackoverflow.com/users/11623774/harsh-gupta"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=whi" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://medium.com/@harshnative"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </br>
 </br>
@@ -64,6 +64,15 @@ Apart From Coding, I also Write Blogs related to all sorts of topics from tech t
 
 </br>
 </br>
+
+# Current Profession
+I am currently working on the lets code community and lets code technologies project with my friends from Udemy.
+
+Website - https://www.letscodeofficial.com
+
+
+</br>
+</br>
 </br>
 </br>
 
@@ -81,7 +90,7 @@ Apart From Coding, I also Write Blogs related to all sorts of topics from tech t
 </br>
 </br>
 
-## 2. Programming Langauges
+## 2. Langauges
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; &nbsp;
@@ -90,6 +99,10 @@ Apart From Coding, I also Write Blogs related to all sorts of topics from tech t
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white" /> &nbsp; &nbsp;
+<!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> &nbsp; &nbsp; -->
 
 
 My Most proficient langauge is python with over 3 years of professional experience
@@ -116,8 +129,40 @@ My Most proficient langauge is python with over 3 years of professional experien
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> &nbsp; &nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> &nbsp; &nbsp;
 
+
+
+</br>
+</br>
+
+
+## 5. Cloud
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" /> &nbsp; &nbsp;
+
+</br>
+</br>
+
+
+
+## 6. Graphic & Design
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> &nbsp; &nbsp;
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> &nbsp; &nbsp;
+</br>
+</br>
+
+
+## 7. Video editing
+<a style="display: inline;" href="https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+Click on icon above or link below to see some of the videos edited by me.
+https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A
 
 </br>
 </br>
@@ -143,6 +188,11 @@ My Most proficient langauge is python with over 3 years of professional experien
 <a href="https://github.com/harshnative/Jarvis2.O">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=Jarvis2.O&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+</br>
+</br>
+
+<a href="https://github.com/harshnative"><img alt="harsh native Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshnative&custom_title=Harsh%20Native's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </br>
 </br>
