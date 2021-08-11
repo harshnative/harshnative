@@ -1,8 +1,20 @@
 ## Hello Folks 👋
 
-### I am Harsh Gupta, A passionate developer from India.
+## I am Harsh Native
 
 <a style="display: inline;" href="mailto: harshnative@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.linkedin.com/in/harsh-gupta-833860189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://github.com/harshnative"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.hackerrank.com/harshnative"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.facebook.com/harshnative"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.instagram.com/harshnative"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://stackoverflow.com/users/11623774/harsh-gupta"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=whi" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://medium.com/@harshnative"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+</br>
+</br>
+I am a Passionate Developer from India. Programming is my passion , carrier , hobby you name it. I try to build and learn new things almost everyday. My birth name is Harsh Gupta.
+</br>
+</br>
+
+I also listen to music , Do video editing , Designing , Gaming and much more :).
+
+I also read many self developement books like Rich Dad , Thinking fast and slow and more.
+
+You can find me on all the above platforms :).
 
 </br>
 </br>
