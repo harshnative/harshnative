@@ -209,10 +209,47 @@ https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A
 
 # My Main Projects
 
-
+## 1. Jarvis 2.O
 <a href="https://github.com/harshnative/Jarvis2.O">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=Jarvis2.O&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+</br>
+</br>
+
+### Jarvis 2.O is a New and better console based personal assistant
+
+</br>
+
+It can do many things such as :-
+1. weather of any city
+2. speed test
+3. own settings file
+4. password manager with military class encryption
+5. Share file via both HTTP and FTP server with both wired and wireless medium.
+6. mispelled command detection
+7. auto complete command using tab
+8. in built troubleshooter
+
+</br>
+</br>
+</br>
+
+
+## 2. Local Secure Chat
+<a href="https://github.com/harshnative/local-Secure-Chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=local-Secure-Chat&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+</br>
+</br>
+
+### Local Secure Chat is a chat application desgined to chat with anyone in a group over a local area network securely
+
+</br>
+
+It use cyrptography fernet tech to encrypt messages , login credentails are managed by the server admin , any machine running python can act as server as well client.
+
 
 
 </br>
