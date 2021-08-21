@@ -252,6 +252,29 @@ It use cyrptography fernet tech to encrypt messages , login credentails are mana
 
 
 
+
+</br>
+</br>
+</br>
+
+
+## 3. GST Billing Machine
+
+<a style="display: inline;" href="https://letscodeofficial.com"><img src="https://i.ytimg.com/an_webp/NWsckqGl9IA/mqdefault_6s.webp?du=3000&sqp=CIDWgokG&rs=AOn4CLCvgzRp4u49iMd2mRtoQNLxOTLKpg" height="128px"/></a>
+</br>
+</br>
+<a href="https://www.youtube.com/watch?v=NWsckqGl9IA" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
+
+Direct link - https://www.youtube.com/watch?v=NWsckqGl9IA
+
+</br>
+</br>
+
+
+This a Project Taken under developement for a Business who wants to do GST billing in their outlet for the customers with a high level encryption database and fast response time and easy interface.
+
+
+
 </br>
 </br>
 </br>
