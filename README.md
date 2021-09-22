@@ -41,7 +41,7 @@ You can find me on all the above platforms :).
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/favicon.ico" height="128px"/></a>
 </br>
 </br>
-<a href="www.letscodeofficial.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
+Checkout Now - https://letscodeofficial.com
 
 </br>
 </br>
@@ -51,8 +51,7 @@ You can find me on all the above platforms :).
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.letscodeofficial.com/static/images/jarvis/jarvisLogo.svg" height="128px"/></a>
 </br>
 </br>
-<a href="www.letscodeofficial.com/jarvis" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
-
+Checkout Now - https://letscodeofficial.com/jarvis
 
 </br>
 </br>
@@ -62,7 +61,7 @@ You can find me on all the above platforms :).
 <a style="display: inline;" href="https://letscodeofficial.com"><img src="https://www.mitthansweets.com/static/mitthanSweetAssests/images/favicon.ico" height="128px"/></a>
 </br>
 </br>
-<a href="www.mitthansweets.com" style="font-size: 20px; font-weight: 400; border-style: solid; color: white; padding: 8px;">Checkout Now</a>
+Checkout Now - https://mitthansweets.com
 
 </br>
 </br>
