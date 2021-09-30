@@ -208,6 +208,10 @@ https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A
 
 <a href="https://www.letscodeofficial.com/static/images/toShare/harshnativegraph.png"><img src="https://www.letscodeofficial.com/static/images/toShare/harshnativegraph.png" /></a>
 
+This chart was made by lines-of-code-counter-with-charts utility made by myself using python.
+
+You can check it out at - https://github.com/harshnative/lines-of-code-counter-with-charts and build charts for your own repo
+
 </br>
 </br>
 </br>
@@ -280,6 +284,30 @@ Direct link - https://www.youtube.com/watch?v=NWsckqGl9IA
 
 This a Project Taken under developement for a Business who wants to do GST billing in their outlet for the customers with a high level encryption database and fast response time and easy interface.
 
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+
+
+## 4. lines-of-code-counter-with-charts
+
+</br>
+<a href="https://github.com/harshnative/lines-of-code-counter-with-charts">lines-of-code-counter-with-charts Checkout Now</a>
+
+Direct link - https://github.com/harshnative/lines-of-code-counter-with-charts
+
+</br>
+</br>
+
+
+Utility to count lines of code and produce results in variety of formats as well as beautiful charts
 
 
 </br>
