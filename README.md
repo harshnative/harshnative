@@ -2,7 +2,32 @@
 
 ## I am Harsh Native
 
-<a style="display: inline;" href="mailto: harshnative@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.linkedin.com/in/harsh-gupta-833860189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://github.com/harshnative"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.hackerrank.com/harshnative"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.facebook.com/harshnative"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.instagram.com/harshnative"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://stackoverflow.com/users/11623774/harsh-gupta"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=whi" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://medium.com/@harshnative"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> &nbsp; &nbsp; <a style="display: inline;" href="https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a style="display: inline;" href="mailto: harshnative@gmail.com">
+<img src="https://www.letscodeofficial.com/media/fileSharer/Gmail-D14836.svg" /></a> &nbsp; &nbsp;
+
+<a style="display: inline;" href="https://www.linkedin.com/in/harsh-gupta-833860189/">
+<img src="https://www.letscodeofficial.com/media/fileSharer/LinkedIn-0077B5.svg" /></a> &nbsp; &nbsp;
+
+<a style="display: inline;" href="https://github.com/harshnative">
+<img src="https://www.letscodeofficial.com/media/fileSharer/GitHub-100000.svg" /></a> &nbsp; &nbsp;
+ 
+<a style="display: inline;" href="https://www.hackerrank.com/harshnative">
+<img src=" https://www.letscodeofficial.com/media/fileSharer/-Hackerrank-2EC866.svg" /></a> &nbsp; &nbsp; 
+
+<a style="display: inline;" href="https://www.facebook.com/harshnative">
+<img src="https://www.letscodeofficial.com/media/fileSharer/Facebook-1877F2.svg" /></a> &nbsp; &nbsp;
+
+<a style="display: inline;" href="https://www.instagram.com/harshnative">
+<img src="https://www.letscodeofficial.com/media/fileSharer/Instagram-E4405F.svg" /></a> &nbsp; &nbsp;
+ 
+<a style="display: inline;" href="https://stackoverflow.com/users/11623774/harsh-gupta">
+<img src="https://www.letscodeofficial.com/media/fileSharer/Stack_Overflow-FE7A16.svg" /></a> &nbsp; &nbsp; 
+
+<a style="display: inline;" href="https://medium.com/@harshnative">
+<img src=" https://www.letscodeofficial.com/media/fileSharer/Medium-12100E.svg" /></a> &nbsp; &nbsp; 
+
+<a style="display: inline;" href="https://www.youtube.com/channel/UCyAtkFE9Asq7mgpoCj0Vj_A">
+<img src="https://www.letscodeofficial.com/media/fileSharer/YouTube-FF0000.svg" /></a>
 
 </br>
 </br>
