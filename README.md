@@ -52,6 +52,7 @@ You can find me on all the above platforms :).
 ### 2. Back End Developement
 ### 3. Desktop GUI Developement
 ### 4. Script Writing
+### 5. Encryption systems
 
 
 </br>
@@ -245,7 +246,50 @@ You can check it out at - https://github.com/harshnative/lines-of-code-counter-w
 
 # My Main Projects
 
-## 1. Jarvis 2.O
+
+## 1. pySecureCryptos
+
+</br>
+<a href="https://www.letscodeofficial.com/documentations/pySecureCryptos#/">pySecureCryptos Checkout Now</a>
+
+</br>
+
+github link - https://github.com/harshnative/pySecureCryptos
+
+</br>
+</br>
+
+</br>
+
+World class encryption module written in python
+* symmetric encryptions
+  * onetimepad
+  * cryptography.fernet
+  * cryptography.fernet using multiprocessing for faster encryption
+  * all above as method to encrypt both bytes and string data with progress yielders
+* asymmetric encryptions
+  * rsa
+  * all above as method to encrypt both bytes and string data with progress yielders
+* encoder decoder
+  * convert string into bytes , bytes from strings , bytes from hex etc
+* shuffler
+  * shuffle and unshuffle all types of objects like lists , bytes , strings etc
+* hashers
+  * SHA256
+  * SHA384
+  * SHA512
+  * all the above methods can return result in bytes or string and also as progress yielders and shuffler methods
+* randomWrapper
+  * generate true and pseduo random strings
+  * generate true integers , floats , strings etc from mouse movement which provides absolute true randomness
+
+
+
+</br>
+</br>
+
+
+## 2. Jarvis 2.O
 <a href="https://github.com/harshnative/Jarvis2.O">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=Jarvis2.O&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -272,7 +316,7 @@ It can do many things such as :-
 </br>
 
 
-## 2. Local Secure Chat
+## 3. Local Secure Chat
 <a href="https://github.com/harshnative/local-Secure-Chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnative&repo=local-Secure-Chat&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -294,7 +338,7 @@ It use cyrptography fernet tech to encrypt messages , login credentails are mana
 </br>
 
 
-## 3. GST Billing Machine
+## 4. GST Billing Machine
 
 <a style="display: inline;" href="https://www.youtube.com/watch?v=NWsckqGl9IA"><img src="https://www.letscodeofficial.com/static/images/toShare/githubProject_gstbillingmachineshowcase_harshnative.png" height="128px"/></a>
 </br>
@@ -321,7 +365,7 @@ This a Project Taken under developement for a Business who wants to do GST billi
 
 
 
-## 4. lines-of-code-counter-with-charts
+## 5. lines-of-code-counter-with-charts
 
 </br>
 <a href="https://github.com/harshnative/lines-of-code-counter-with-charts">lines-of-code-counter-with-charts Checkout Now</a>
